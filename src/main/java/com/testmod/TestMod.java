@@ -1,7 +1,8 @@
 package com.testmod;
 
-import com.testmod.block.ModBlocks;
 import net.fabricmc.api.ModInitializer;
+
+import com.testmod.block.ModBlocks;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
