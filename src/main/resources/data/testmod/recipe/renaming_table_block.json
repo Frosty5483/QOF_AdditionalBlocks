@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "~~~",
+    "*+#"
+  ],
+  "key": {
+    "~": [
+      "minecraft:oak_planks"
+    ],
+    "*": [
+      "minecraft:ink_sac"
+    ],
+    "+": [
+      "minecraft:name_tag"
+    ],
+    "#": [
+      "minecraft:feather"
+    ]
+  },
+  "result": {
+    "id": "testmod:renaming_table_block",
+    "count": 1
+  }
+}
